@@ -1,4 +1,4 @@
 date,item,concept,minutes,unaided,key
-2026-10-29,Ghost Gobble Arcade Game,bools,45,no,return takes an expression not an assignment; and/or/not already give a bool
-2026-10-29,Currency Exchange,numbers,35,no,% is remainder not subtraction; spread raises the rate so multiply by 1 + spread/100
-2026-10-29,Meltdown Mitigation,conditionals,25,no,< not << (bit shift); colon after if/elif/else; never name a variable after its function
+2026-10-29,Ghost Gobble Arcade Game,bools,45,yes,return takes an expression not an assignment; and/or/not already give a bool
+2026-10-29,Currency Exchange,numbers,35,yes,% is remainder not subtraction; spread raises the rate so multiply by 1 + spread/100
+2026-10-29,Meltdown Mitigation,conditionals,25,yes,< not << (bit shift); colon after if/elif/else; never name a variable after its function
